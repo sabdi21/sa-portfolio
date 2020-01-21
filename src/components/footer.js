@@ -103,7 +103,7 @@ const Footer = ({ githubInfo }) => (
         target="_blank"
         rel="nofollow noopener noreferrer">
         <div>Designed &amp; Built by Brittany Chiang</div>
-        <div>Modified by Ana Gonzalez</div>
+        <div>Modified by Shukri Abdi</div>
         {githubInfo.stars && githubInfo.forks && (
           <GithubInfo>
             <span>

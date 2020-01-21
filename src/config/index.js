@@ -8,7 +8,7 @@ module.exports = {
 
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
 
-  name: 'Ana Gonzalez',
+  name: 'Shukri Abdi',
   location: 'Miami, FL',
   email: 'shukria4486@gmail.com',
   github: 'https://github.com/sabdi21',
