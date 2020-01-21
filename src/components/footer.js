@@ -106,14 +106,14 @@ const Footer = ({ githubInfo }) => (
         <div>Modified by Shukri Abdi</div>
         {githubInfo.stars && githubInfo.forks && (
           <GithubInfo>
-            <span>
+            {/* <span>
               <IconStar />
               <span>{githubInfo.stars}</span>
             </span>
             <span>
               <IconFork />
               <span>{githubInfo.forks}</span>
-            </span>
+            </span> */}
           </GithubInfo>
         )}
       </GithubLink>

@@ -16,7 +16,7 @@ const HeroContainer = styled(Section)`
     width: 100%;
   }
 `;
-const Hi = styled.h1`
+const Hi = styled.h2`
   color: ${colors.green};
   margin: 0 0 20px 3px;
   font-size: ${fontSizes.medium};
