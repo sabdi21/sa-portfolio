@@ -1,6 +1,6 @@
 module.exports = {
   siteTitle: 'Shukri Abdi | Software Engineer',
-  siteDescription: 'Shukri Abdi is a software developer based in Miami, Fl.',
+  siteDescription: 'Shukri Abdi is a software developer based in Seattle, WA.',
   siteKeywords:
     'Shukri Abdi, Shukri, Abdi, software engineer, software developer, front-end developer, web developer, javascript, northwestern',
   siteUrl: 'https://shukriabdi.dev',
@@ -9,7 +9,7 @@ module.exports = {
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
 
   name: 'Shukri Abdi',
-  location: 'Miami, FL',
+  location: 'Seattle, WA',
   email: 'shukria4486@gmail.com',
   github: 'https://github.com/sabdi21',
   socialMedia: [
@@ -23,15 +23,15 @@ module.exports = {
     },
     // {
     //   name: 'Codepen',
-    //   url: 'https://codepen.io/anamgonzalez',
+    //   url: 'https://codepen.io/',
     // },
     // {
     //   name: 'Instagram',
-    //   url: 'https://www.instagram.com/anamgonzalezart/',
+    //   url: 'https://www.instagram.com//',
     // },
     // {
     //   name: 'Twitter',
-    //   url: 'https://twitter.com/an_amria',
+    //   url: 'https://twitter.com/',
     // },
   ],
 
@@ -54,7 +54,7 @@ module.exports = {
     },
   ],
 
-  twitterHandle: '@an_amria',
+  twitterHandle: '',
   googleAnalyticsID: 'UA-45666519-2',
 
   navHeight: 100,

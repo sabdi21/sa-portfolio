@@ -1,1 +1,11 @@
-{"data":{"site":{"siteMetadata":{"title":"Shukri Abdi | Software Engineer","siteUrl":"https://shukriabdi.dev","description":"Shukri Abdi is a software developer based in Miami, Fl."}}}}
+{
+  "data": {
+    "site": {
+      "siteMetadata": {
+        "title": "Shukri Abdi | Software Engineer",
+        "siteUrl": "https://shukriabdi.dev",
+        "description": "Shukri Abdi is a software developer based in Seattle, WA."
+      }
+    }
+  }
+}

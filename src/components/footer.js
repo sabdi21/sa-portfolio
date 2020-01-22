@@ -6,8 +6,8 @@ import {
   IconCodepen,
   IconInstagram,
   IconTwitter,
-  IconStar,
-  IconFork,
+  // IconStar,
+  // IconFork,
 } from '@components/icons';
 import { socialMedia } from '@config';
 import styled from 'styled-components';
@@ -102,8 +102,8 @@ const Footer = ({ githubInfo }) => (
         href="https://github.com/bchiang7/v4"
         target="_blank"
         rel="nofollow noopener noreferrer">
-        <div>Designed &amp; Built by Brittany Chiang</div>
-        <div>Modified by Shukri Abdi</div>
+        {/* <div>Designed &amp; Built by Brittany Chiang</div> */}
+        {/* <div>Modified by Shukri Abdi</div> */}
         {githubInfo.stars && githubInfo.forks && (
           <GithubInfo>
             {/* <span>

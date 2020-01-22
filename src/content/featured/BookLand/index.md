@@ -10,7 +10,7 @@ tech:
   - Express
   - SQL
   - EJS
-  - Google Web API
+  - Google API
 show: 'true'
 ---
 
