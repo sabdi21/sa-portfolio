@@ -1,15 +1,15 @@
 ---
 date: '2'
-title: 'Freely'
+title: 'Picky-Eater'
 cover: './picky-eater.png'
 github: ' https://github.com/301d47-project/picky-eater'
 external: 'http://pickyeater123.com/'
 tech:
   - Javascript
   - EJS
-  - RESTful API
+  - REST API
   - BootStrap
-  - HTML CSS(sass)
+  - HTML/CSS
 show: 'true'
 ---
 

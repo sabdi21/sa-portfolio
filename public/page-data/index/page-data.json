@@ -102,7 +102,7 @@
                     }
                   }
                 },
-                "tech": ["React", "Node.js", "Express", "Mongoose", "MongoDB", "JWT"],
+                "tech": ["React", "Node", "Express", "Mongoose", "MongoDB", "JWT"],
                 "github": "https://github.com/sabdi21/project-3",
                 "external": "https://proj3-shukri.herokuapp.com/",
                 "show": "true"
@@ -113,7 +113,7 @@
           {
             "node": {
               "frontmatter": {
-                "title": "Freely",
+                "title": "Picky-Eater",
                 "cover": {
                   "childImageSharp": {
                     "fluid": {
@@ -127,7 +127,7 @@
                     }
                   }
                 },
-                "tech": ["Javascript", "EJS", "RESTful API", "BootStrap", "HTML CSS(sass)"],
+                "tech": ["Javascript", "EJS", "REST API", "BootStrap", "HTML/CSS"],
                 "github": " https://github.com/301d47-project/picky-eater",
                 "external": "http://pickyeater123.com/",
                 "show": "true"
@@ -152,7 +152,7 @@
                     }
                   }
                 },
-                "tech": ["JavaScript", "Node.js", "Express", "SQL", "EJS", "Google API"],
+                "tech": ["JavaScript", "Node", "Express", "SQL", "EJS", "API"],
                 "github": "https://github.com/anamgonzalez/",
                 "external": "https://bookland-app.herokuapp.com",
                 "show": "true"

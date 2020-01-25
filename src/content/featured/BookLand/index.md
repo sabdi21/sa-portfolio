@@ -6,11 +6,11 @@ github: 'https://github.com/anamgonzalez/'
 external: 'https://bookland-app.herokuapp.com'
 tech:
   - JavaScript
-  - Node.js
+  - Node
   - Express
   - SQL
   - EJS
-  - Google API
+  - API
 show: 'true'
 ---
 

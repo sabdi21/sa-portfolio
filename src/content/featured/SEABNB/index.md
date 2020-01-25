@@ -6,7 +6,7 @@ github: 'https://github.com/sabdi21/project-3'
 external: 'https://proj3-shukri.herokuapp.com/'
 tech:
   - React
-  - Node.js
+  - Node
   - Express
   - Mongoose
   - MongoDB
